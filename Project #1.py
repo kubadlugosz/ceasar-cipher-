@@ -37,9 +37,9 @@ def decryption(W):
 
 
 def main():
-    print( encryption("hello world"))
+     print( encryption("hello world",1))
 
-    print(decryption())
+     print(decryption("ifmmp xpsme1"))
 main()
 
 
